@@ -33,5 +33,5 @@
 }
 .cat-but:hover{
     background-color: rgb(134, 134, 10);
-
+    cursor: pointer;
 }
